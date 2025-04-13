@@ -5,6 +5,8 @@ An awesome repository &amp; A comprehensive survey of LLM Rag chunk‘s methods
 
 **覆盖10+最新分块算法 | 论文/代码/模型全收录 | 持续更新**
 
+
+
 ------
 
 ## **📌 核心算法**
@@ -12,23 +14,23 @@ An awesome repository &amp; A comprehensive survey of LLM Rag chunk‘s methods
 <div class="grid cards" markdown>
 
 - ChunkNorris
-  - :fontawesome-brands-github: [code](https://wikit-ai.github.io/chunknorris/pages/how_it_works/#parsers)
+  - <i class="fa-brands fa-github"></i> [code](https://wikit-ai.github.io/chunknorris/pages/how_it_works/#parsers)
 - Chonkie
-  - :fontawesome-brands-github: https://github.com/chonkie-ai/chonkie
+  - <i class="fa-brands fa-github"></i> https://github.com/chonkie-ai/chonkie
 - ProX
-  - :fontawesome-brands-github: https://github.com/GAIR-NLP/ProX
-  - :huggingface: [model](https://huggingface.co/gair-prox/web-chunk-refining-lm/tree/main)
+  - <i class="fa-brands fa-github"></i> https://github.com/GAIR-NLP/ProX
+  - <i class="fa-solid fa-face-smiling-hands"></i> [model](https://huggingface.co/gair-prox/web-chunk-refining-lm/tree/main)
 - MoC
-  - :fontawesome-brands-github: [code](https://github.com/IAAR-Shanghai/Meta-Chunking/tree/main/MoC)
-  - :material-file-document:  [paper](https://arxiv.org/pdf/2503.09600)
+  - <i class="fa-brands fa-github"></i> [code](https://github.com/IAAR-Shanghai/Meta-Chunking/tree/main/MoC)
+  - <i class="fa-solid fa-file"></i>  [paper](https://arxiv.org/pdf/2503.09600)
 - Meta-Chunking
-  - :fontawesome-brands-github: [code](https://github.com/IAAR-Shanghai/Meta-Chunking)
-  - :material-file-document: [paper](https://arxiv.org/pdf/2410.12788)
+  - <i class="fa-brands fa-github"></i> [code](https://github.com/IAAR-Shanghai/Meta-Chunking)
+  - <i class="fa-solid fa-file"></i>[paper](https://arxiv.org/pdf/2410.12788)
 - LumberChunker
-  - :fontawesome-brands-github: [code](https://github.com/IAAR-Shanghai/Meta-Chunking)
+  - <i class="fa-brands fa-github"></i> [code](https://github.com/IAAR-Shanghai/Meta-Chunking)
 - Late Chunking
-  - :fontawesome-brands-github: [code](https://link.zhihu.com/?target=https%3A//github.com/jina-ai/late-chunking)
-  - :material-file-document: [paper](https://link.zhihu.com/?target=https%3A//arxiv.org/abs/2409.04701)
+  - <i class="fa-brands fa-github"></i> [code](https://link.zhihu.com/?target=https%3A//github.com/jina-ai/late-chunking)
+  - <i class="fa-solid fa-file"></i> [paper](https://link.zhihu.com/?target=https%3A//arxiv.org/abs/2409.04701)
 
 </div>
 
