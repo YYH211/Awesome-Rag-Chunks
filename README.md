@@ -11,10 +11,8 @@ An awesome repository &amp; A comprehensive survey of LLM Rag chunk‘s methods
 
 ## **📌 核心算法**
 
-<div class="grid cards" markdown>
-
 - ChunkNorris
-  - <i class="fa-brands fa-github"></i> [code](https://wikit-ai.github.io/chunknorris/pages/how_it_works/#parsers)
+  - :github:  [code](https://wikit-ai.github.io/chunknorris/pages/how_it_works/#parsers)
 - Chonkie
   - <i class="fa-brands fa-github"></i> https://github.com/chonkie-ai/chonkie
 - ProX
@@ -31,8 +29,6 @@ An awesome repository &amp; A comprehensive survey of LLM Rag chunk‘s methods
 - Late Chunking
   - <i class="fa-brands fa-github"></i> [code](https://link.zhihu.com/?target=https%3A//github.com/jina-ai/late-chunking)
   - <i class="fa-solid fa-file"></i> [paper](https://link.zhihu.com/?target=https%3A//arxiv.org/abs/2409.04701)
-
-</div>
 
 ------
 
